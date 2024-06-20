@@ -6,7 +6,7 @@ public class Demo {
 		Publicexample u=new Publicexample();
 		
 		System.out.println(u.a);
-		        System.out.println(u.f);  
+		System.out.println(u.f);  
 
 	}
 
