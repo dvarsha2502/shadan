@@ -13,7 +13,7 @@ public class Student {
 	public static void main(String[] args) {
 		    Student s=new Student(1,"java");
 		    
-		    boolean   op= s instanceof Student;
+		    boolean  op= s instanceof Student;
 		    
 		    System.out.println(op);
 	}

@@ -8,8 +8,7 @@ public class Demo {
 		    Scanner sc=new Scanner(System.in);
 		    System.out.println("enter your name");
 		    String name=sc.next();
-		    
-		    
+		    		    
 		    System.out.println("enter your address");
 		    String address=sc.next();
 		    
